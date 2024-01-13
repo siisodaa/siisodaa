@@ -1,4 +1,6 @@
-### Hi there 👋
+### I’m a student majoring in CS ...
+### I’m currently learning C++, Django, Laravel, and Procreate App animations ...
+### I love talking about international politics
 
 <!--
 
